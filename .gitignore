@@ -1,0 +1,11 @@
+.env
+.env.local
+*.db
+*.sqlite
+*.sqlite3
+# Ignore SQLite databases and temporary write logs
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
